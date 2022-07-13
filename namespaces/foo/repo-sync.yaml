@@ -10,7 +10,7 @@ spec:
   # Since this is for a namespace repository, the format should be unstructured
   sourceFormat: unstructured
   git:
-   repo: git@github.com:cicd-gitops-for-k8s/foo-ns-gke-gitops-prod.git
+   repo: git@github.com:msathe-tech/pushpa-foo-ns-gke-gitops-prod.git
    branch: main
    dir: "/"
    auth: ssh
